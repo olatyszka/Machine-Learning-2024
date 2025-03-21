@@ -4,4 +4,5 @@ Machine Learning course in the Faculty of Mathematics, Informatics and Mechanics
 
 SOLVE 1
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/olatyszka/Machine-Learning-2024/blob/master/solve1.ipynb)
-[![Open in Colab lab2Homework.ipynb](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/olatyszka/Machine-Learning-2024/blob/master/lab2Homework.ipynb)
+ lab2Homework.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/olatyszka/Machine-Learning-2024/blob/master/lab2Homework.ipynb)
