@@ -10,3 +10,5 @@ lab3Homework.ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/olatyszka/Machine-Learning-2024/blob/master/lab3Homework.ipynb)
 lab5Homework.ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/olatyszka/Machine-Learning-2024/blob/master/lab5Homework.ipynb)
+lab6Homework.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/olatyszka/Machine-Learning-2024/blob/master/lab6Homework.ipynb)
